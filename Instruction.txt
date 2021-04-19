@@ -1,0 +1,17 @@
+1. Copy "loginsystem" to your www or htdocs (localhost) folder
+2. Create database named "loginsystem" and import "loginsystem.sql" file.
+3. open browser: localhost/loginsystem/
+
+** some error which are overlook ie. in the post method back button of browser 
+request to resubmit document. and the other warnings for the user.
+
+Take care. Please let me know for betterment of this code.
+
+
+User One: 
+user id: mithun
+pass: 123
+
+User Two:
+user id: ujjal
+pass: 456
